@@ -12,15 +12,20 @@ This NPM module allows developers to easily add common supercomputer functions t
 
 > functions.list
 
-returns: [ 'sentiment', 'md5cracker' ]
+returns: [ 'sentiment', 'md5cracker', "nextprime" ]
 
 > functions.sentiment
 
-returns: sentiment operation
+returns: sentiment function
 
 > functions.md5cracker
 
-returns: MD5 cracker operation
+returns: MD5 cracker function
+
+> functions.nextprime
+
+returns: Next Prime function
+
 
 ## Computes.io Example
 
